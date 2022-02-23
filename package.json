@@ -1,0 +1,23 @@
+{
+  "name": "opdracht5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass -w scss:css --style=compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JEMX-mbou/FTED-AM3-opdracht5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JEMX-mbou/FTED-AM3-opdracht5/issues"
+  },
+  "homepage": "https://github.com/JEMX-mbou/FTED-AM3-opdracht5#readme",
+  "devDependencies": {
+    "sass": "^1.49.7"
+  }
+}
